@@ -1,0 +1,19 @@
+{
+  "name": "meteor-static",
+  "version": "0.0.1",
+  "description": "Concept for npm cli for bundling meteor static",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lb-/meteor-static.git"
+  },
+  "author": "LB (mail@lb.ee)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lb-/meteor-static/issues"
+  },
+  "homepage": "https://github.com/lb-/meteor-static"
+}
